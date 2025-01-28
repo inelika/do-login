@@ -18,3 +18,8 @@ console.log(checkLogin("user", "12345"));
 console.log(checkLogin("adam", "09090")); 
 console.log(checkLogin("user", "55555"));  
 console.log(checkLogin ( "enlik", "7777" ))
+
+
+//console.log(a); 
+//var a = 5;
+// JS видит переменную, объявленную с помощью var, он как бы поднимает (всплывает) её объявление вверх кода.
